@@ -5,7 +5,9 @@ web file
 ## Deskripsi
 
 index.php : Source code untuk tampilan utama dari web cangkru'an KLAS
+
 proses.php : Source code untuk forced downloading
+
 config.inc.php : Source code untuk koneksi dengan database
 
 Tiap folder merupakan pendukung untuk web sesuai nama folder

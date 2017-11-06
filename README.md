@@ -15,7 +15,7 @@ Tiap folder merupakan pendukung untuk web sesuai nama folder
 
 Untuk perubahan sebaiknya hanya dilakukan pada "file : index.php" ; file unduhan bernama "pendaftaran" yang ada pada folder "files" ; file gambar bernama "poster.png"
 
-Untuk merubah "file : index.php" lakukanlah pada <!-- Page Content -->
+Untuk merubah "file : index.php" lakukanlah pada -- Page Content --
 
 Untuk merubah file "pendaftaran," lakukanlah pada file template yaitu "pendaftaran.pptx" kemudian jika sudah selesai simpanlah dengan format "pendaftaran.pdf" untuk menggantikan file "pendaftaran.pdf" yang lama
 
